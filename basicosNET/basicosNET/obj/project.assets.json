@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnn\\Documents\\DEV\\CSharp\\basicosNET\\basicosNET\\basicosNET.csproj",
+      "projectUniqueName": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\dotNET\\basicosNET\\basicosNET\\basicosNET.csproj",
       "projectName": "basicosNET",
-      "projectPath": "C:\\Users\\johnn\\Documents\\DEV\\CSharp\\basicosNET\\basicosNET\\basicosNET.csproj",
+      "projectPath": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\dotNET\\basicosNET\\basicosNET\\basicosNET.csproj",
       "packagesPath": "C:\\Users\\johnn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnn\\Documents\\DEV\\CSharp\\basicosNET\\basicosNET\\obj\\",
+      "outputPath": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\dotNET\\basicosNET\\basicosNET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\johnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
